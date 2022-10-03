@@ -1,0 +1,8 @@
+				card number		pin number
+
+User 1				111				9876
+User 2				222				6789
+User 3				333				1478
+User 4				444				9487
+User 5				555				3496
+User 6				666				1234

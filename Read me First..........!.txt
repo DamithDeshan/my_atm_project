@@ -1,0 +1,19 @@
+Attention....!
+
+	Follow the steps below to activate this ATM
+
+		1. First install Xampp (64 bit) v7.3.4-0 (VC15) or another version of Xammp.
+
+		2. Open it and start apache and mysql.
+
+		3. Open the web browser and download the web page from the link below.
+				link :- http://localhost/phpmyadmin/server_sql.php?lang=en
+
+		4. Drag the account_aql.sql file into it and give it Go.
+
+		5. Open the atm_project.jar
+
+		6. Now you can use the ATM
+
+	
+
